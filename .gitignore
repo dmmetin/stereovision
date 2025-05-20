@@ -1,0 +1,20 @@
+# Ignore video files
+*.mp4
+
+# Ignore NumPy tensors and other large data files
+*.npz
+*.npy
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore macOS system files
+.DS_Store
